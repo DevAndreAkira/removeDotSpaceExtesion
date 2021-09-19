@@ -1,0 +1,10 @@
+{
+    "name":"Remove DotSpace",
+    "version":"1.0.0",
+    "description":"Aplicativo criado para facilitar a formatação para pagamento de boletos.",
+    "browser_action":{
+        "default_popup":"index.html",
+        "default_icon":"img/favicon.png"
+    },
+    "manifest_version":2
+}
